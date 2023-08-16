@@ -3,6 +3,7 @@ A PoC exploit for Maltrail v0.53, written as part of my participation in HTB Sau
 
 # Credits
 [Somnath Das](https://medium.com/@dassomnath/sau-hack-the-box-write-up-7a34a6080fbf)
+
 [spookier](https://github.com/spookier/Maltrail-v0.53-Exploit)
 
 # Why the odd title?
